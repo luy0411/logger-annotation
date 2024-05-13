@@ -6,10 +6,10 @@
 -->
 <application generated-by="intellij" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com http://update.zeroturnaround.com/jrebel/rebel-2_3.xsd">
 
-	<id>demo</id>
+	<id>logger-annotation</id>
 
 	<classpath>
-		<dir name="C:/dev/git/logger-annotation/demo/target/classes">
+		<dir name="C:/dev/git/logger-annotation/logger-annotation/target/classes">
 		</dir>
 	</classpath>
 
